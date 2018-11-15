@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9af7e52-ffd7-41a8-a505-e56443d3c17d" name="Default Changelist" comment="" />
+    <list default="true" id="b9af7e52-ffd7-41a8-a505-e56443d3c17d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../file_subperso2/test33.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +14,7 @@
     <session id="-719941876">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -83,7 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="45" />
     <option name="y" value="23" />
     <option name="width" value="1235" />
