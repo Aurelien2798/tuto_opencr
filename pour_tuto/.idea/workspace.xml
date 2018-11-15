@@ -57,8 +57,8 @@
             <state relative-caret-position="90">
               <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               <folding>
-                <marker date="1542315473000" expanded="true" signature="9:14" ph="..." />
-                <marker date="1542315473000" expanded="true" signature="39:44" ph="..." />
+                <marker date="1542315739000" expanded="true" signature="9:14" ph="..." />
+                <marker date="1542315739000" expanded="true" signature="39:44" ph="..." />
               </folding>
             </state>
           </provider>
@@ -83,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="45" />
     <option name="y" value="23" />
     <option name="width" value="1235" />
@@ -165,8 +165,8 @@
         <state relative-caret-position="90">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           <folding>
-            <marker date="1542315473000" expanded="true" signature="9:14" ph="..." />
-            <marker date="1542315473000" expanded="true" signature="39:44" ph="..." />
+            <marker date="1542315739000" expanded="true" signature="9:14" ph="..." />
+            <marker date="1542315739000" expanded="true" signature="39:44" ph="..." />
           </folding>
         </state>
       </provider>
